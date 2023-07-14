@@ -2,5 +2,5 @@ This repository is a collection of notes for [Illumination Engine](https://githu
 
 # Todo List
 ```dataview
-TASK FROM #todo WHERE !completed
+TASK FROM #todo AND !"Tasks/IE Tasks Board" WHERE !completed SORT file ASC
 ```

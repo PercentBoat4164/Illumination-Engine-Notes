@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1e499c7279c55537",
+        "id": "b706b56c3581339a",
         "type": "tabs",
         "children": [
           {
-            "id": "68498d1bc6eca16c",
+            "id": "4e85d183b928fbf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/IE Tasks Board.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/IE Tasks Board.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/IE Tasks Board.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/IE Tasks Board.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,14 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68498d1bc6eca16c",
+  "active": "4e85d183b928fbf3",
   "lastOpenFiles": [
-    "Tasks/FileSystemObject.md",
     "Meeting notes/7.12.23.md",
     "Meeting notes/7.11.23.md",
     "README.md",
-    "conflict-files-obsidian-git.md",
     "Tasks/IE Tasks Board.md",
+    "Tasks/FileSystemObject.md",
+    "conflict-files-obsidian-git.md",
     "Tasks",
     "Meeting notes",
     "Source/Core/Core.md",
