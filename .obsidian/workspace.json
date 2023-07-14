@@ -8,26 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "006d29c54675b33a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "68498d1bc6eca16c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Tasks/IE Tasks Board.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Tasks/IE Tasks Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Tasks/IE Tasks Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Tasks/IE Tasks Board.md"
               }
             }
           }
@@ -158,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "006d29c54675b33a",
+  "active": "68498d1bc6eca16c",
   "lastOpenFiles": [
-    "README.md",
-    "conflict-files-obsidian-git.md",
-    "Tasks/IETasks Board.md",
     "Tasks/FileSystemObject.md",
-    "Tasks",
     "Meeting notes/7.12.23.md",
     "Meeting notes/7.11.23.md",
+    "README.md",
+    "conflict-files-obsidian-git.md",
+    "Tasks/IE Tasks Board.md",
+    "Tasks",
     "Meeting notes",
     "Source/Core/Core.md",
     "Illumination-Engine-Notes",
