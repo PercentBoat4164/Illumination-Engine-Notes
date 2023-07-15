@@ -4,14 +4,13 @@ kanban-plugin: basic
 
 ---
 
-<<<<<<< HEAD
 ## Todo
 
 
 
 ## In Progress
 
-- [ ] FileSystemObject
+- [ ] [[FileSystemObject]]
 
 
 ## In Review
@@ -19,11 +18,11 @@ kanban-plugin: basic
 
 
 ## Done
-=======
-## #todo
->>>>>>> origin/main
 
-- [ ] Sample Task
+
+
+## #todo
+
 
 
 

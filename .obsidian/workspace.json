@@ -136,9 +136,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "3f76f50ab0ad5094",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -157,14 +165,14 @@
   },
   "active": "24df39163e38544d",
   "lastOpenFiles": [
-    "Meeting notes/7.12.23.md",
-    "README.md",
-    "conflict-files-obsidian-git.md",
-    "Meeting notes/2023-07-14.md",
-    "Meeting notes/2023-07-11.md",
-    "Meeting notes/2023-07-11 1.md",
     "Tasks/IE Tasks Board.md",
     "Tasks/FileSystemObject.md",
+    "Meeting notes/2023-07-11.md",
+    "Meeting notes/2023-07-14.md",
+    "README.md",
+    "Meeting notes/7.12.23.md",
+    "conflict-files-obsidian-git.md",
+    "Meeting notes/2023-07-11 1.md",
     "Tasks/IETasks Board.md",
     "Illumination-Engine-Notes/README.md",
     "Illumination-Engine-Notes",
