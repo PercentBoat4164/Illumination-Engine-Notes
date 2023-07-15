@@ -1,14 +1,6 @@
 [
   "obsidian-git",
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "calendar"
-=======
-  "obsidian-kanban"
->>>>>>> origin/main
-=======
+  "calendar",
   "obsidian-kanban",
-  "dataview",
-  "calendar"
->>>>>>> origin/main
+  "dataview"
 ]
