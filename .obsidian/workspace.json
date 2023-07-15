@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Meeting notes/2023-07-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Meeting notes/2023-07-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Meeting notes/2023-07-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Meeting notes/2023-07-14.md"
               }
             }
+          },
+          {
+            "id": "a8233c773d15b002",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,18 +157,19 @@
   },
   "active": "24df39163e38544d",
   "lastOpenFiles": [
-    "Tasks/IE Tasks Board.md",
+    "Meeting notes/2023-07-11.md",
+    "Meeting notes/2023-07-11 1.md",
+    "Meeting notes/2023-07-14.md",
     "README.md",
+    "Tasks/IE Tasks Board.md",
     "Tasks/FileSystemObject.md",
     "conflict-files-obsidian-git.md",
     "Tasks/IETasks Board.md",
-    "Meeting notes/7.11.23.md",
     "Meeting notes/7.12.23.md",
     "Illumination-Engine-Notes/README.md",
     "Illumination-Engine-Notes",
     "Sample Task.md",
     "Untitled 1.canvas",
-    "2023-07-14.md",
     "Untitled.canvas",
     "Untitled 1.md",
     "Tasks",

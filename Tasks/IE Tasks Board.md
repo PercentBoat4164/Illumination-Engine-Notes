@@ -4,7 +4,7 @@ kanban-plugin: basic
 
 ---
 
-## ToDo #todo
+## Todo
 
 
 
