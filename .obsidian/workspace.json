@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "961455965ffba4d8",
+        "id": "f945630504a58652",
         "type": "tabs",
         "children": [
           {
-            "id": "0cee6d880aea9a98",
+            "id": "d04457673c117069",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/plugins/dataview/data.json",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -150,11 +147,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0cee6d880aea9a98",
+  "active": "d04457673c117069",
   "lastOpenFiles": [
+    "README.md",
     "Tasks/IE Tasks Board.md",
     "Tasks/IE Tasks Board.sync-conflict-20230714-224208-EKVSQOD.md",
-    "README.md",
     "conflict-files-obsidian-git.md",
     "Meeting notes/7.12.23.md",
     "Meeting notes/7.11.23.md",
