@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,13 +166,13 @@
   },
   "active": "24df39163e38544d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "README.md",
     "Tasks/IE Tasks Board.md",
     "Tasks/FileSystemObject.md",
     "Meeting notes/2023-07-11.md",
     "Meeting notes/2023-07-14.md",
-    "README.md",
     "Meeting notes/7.12.23.md",
-    "conflict-files-obsidian-git.md",
     "Meeting notes/2023-07-11 1.md",
     "Tasks/IETasks Board.md",
     "Illumination-Engine-Notes/README.md",
