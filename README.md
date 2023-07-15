@@ -8,5 +8,11 @@ This repository is a collection of notes for [Illumination Engine](https://githu
 
 # Todo List
 ```dataview
-TASK FROM #todo AND !"Tasks/IE Tasks Board" WHERE !completed SORT file ASC
+TASK FROM #todo AND !"Tasks/IE Tasks Board" WHERE !completion SORT file ASC
+```
+# Recently Completed Tasks
+```dataview
+TASK FROM #todo AND !"Tasks/IE Tasks Board"
+WHERE completion
+SORT completion DESC
 ```
