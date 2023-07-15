@@ -4,6 +4,7 @@ kanban-plugin: basic
 
 ---
 
+<<<<<<< HEAD
 ## Todo
 
 
@@ -18,7 +19,11 @@ kanban-plugin: basic
 
 
 ## Done
+=======
+## #todo
+>>>>>>> origin/main
 
+- [ ] Sample Task
 
 
 

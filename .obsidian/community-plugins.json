@@ -1,6 +1,9 @@
 [
-  "obsidian-kanban",
   "dataview",
   "obsidian-git",
+<<<<<<< HEAD
   "calendar"
+=======
+  "obsidian-kanban"
+>>>>>>> origin/main
 ]
