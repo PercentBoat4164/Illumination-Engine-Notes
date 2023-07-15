@@ -4,9 +4,25 @@ kanban-plugin: basic
 
 ---
 
+## Todo
+
+
+
+## In Progress
+
+- [ ] [[FileSystemObject]]
+
+
+## In Review
+
+
+
+## Done
+
+
+
 ## #todo
 
-- [ ] Sample Task
 
 
 
