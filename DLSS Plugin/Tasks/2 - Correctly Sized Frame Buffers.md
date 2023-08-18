@@ -1,4 +1,3 @@
-
 - [ ] #connor #thadd Ensure correctly sized frame buffers
 
 Generate two sets - full res and sub res

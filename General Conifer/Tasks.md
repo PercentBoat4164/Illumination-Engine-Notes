@@ -1,2 +1,2 @@
-- [ ] #todo Restructure Discord so that employees have a place to ask questions/be assigned tasks. 📅 2023-08-18 
+- [x] #todo Restructure Discord so that employees have a place to ask questions/be assigned tasks. 📅 2023-08-18 [completion:: 2023-08-18 03:21:07]
  - This can either be in the form of a general channel for a topic where employees have specific threads or several employee specific channels

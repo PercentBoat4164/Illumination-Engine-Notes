@@ -1,7 +1,11 @@
 Death Buther
-- [ ] #todo Provide a depth buffer for each frame
+- [ ] #colin Provide a depth buffer for each frame
+- [ ] #colin Provide color buffer for each frame
 
 Grab from Unity 
+get Vulkan handle to the image
+
+Can happen before other things
 
 Resources - 
 https://en.wikipedia.org/wiki/Z-buffering

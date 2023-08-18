@@ -1,4 +1,4 @@
-- [ ] #todo Generate motion vectors on the URP
+- [ ] #colin enerate motion vectors on the URP
 ## Assignee - Colin McVety
 
 Useful links - 
@@ -25,3 +25,5 @@ http://john-chapman-graphics.blogspot.com/2013/01/per-object-motion-blur.html
 https://docs.unity3d.com/ScriptReference/Camera.WorldToScreenPoint.html
 
 find some place online to mess around with shaders
+
+writing shaders 

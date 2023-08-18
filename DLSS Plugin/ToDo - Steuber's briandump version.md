@@ -16,6 +16,7 @@
 	2. does it need to repeat? (Research)
 8. Begin rendering (unity)
 	1. generate depth buffer (Unity)
+		1. also color buffer
 	2. Run motion vector pass (Us)
 	3. DLSS feature eval (Us)
 	4. copy results into larger frame buffer (Us or NGX, research)

@@ -1,4 +1,3 @@
-
 - [ ] #connor #thadd Set up render pass for motion vectors
 
  - Compile shaders
