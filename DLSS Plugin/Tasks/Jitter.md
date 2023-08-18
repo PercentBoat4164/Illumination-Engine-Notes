@@ -1,3 +1,4 @@
+- [ ] #todo Sub-pixel jitter
 
 Useful links-
 https://en.wikipedia.org/wiki/Temporal_anti-aliasing

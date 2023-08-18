@@ -1,3 +1,5 @@
 {
-  "format": "MM-DD-YY"
+  "format": "MM-DD-YY",
+  "folder": "Meeting notes",
+  "template": "Templates/Daily note template"
 }

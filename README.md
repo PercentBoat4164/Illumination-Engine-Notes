@@ -6,13 +6,20 @@ This repository is a collection of notes for [Illumination Engine](https://githu
 * Calender - Liam Cain
 * Obsidian Git 
 
-# Todo List
+# Todo List - General
+
 ```dataview
-TASK FROM #todo AND !"Tasks/IE Tasks Board" WHERE !completion SORT file ASC
+TASK FROM #todo AND "General Conifer" WHERE !completion SORT file ASC
 ```
+# Todo List - DLSS
+```dataview
+TASK FROM #todo AND !"Illumination Engine" AND "DLSS Plugin" WHERE !completion SORT file ASC
+```
+
+
 # Recently Completed Tasks
 ```dataview
-TASK FROM #todo AND !"Tasks/IE Tasks Board"
+TASK FROM #todo AND !"Illumination Engine"
 WHERE completion
 SORT completion DESC
 ```

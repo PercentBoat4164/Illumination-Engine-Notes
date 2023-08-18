@@ -1,0 +1,1 @@
+- [ ] #todo Provide raw color buffer for each frame
