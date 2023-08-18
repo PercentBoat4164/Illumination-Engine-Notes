@@ -1,6 +1,27 @@
 - [ ] #todo Create a comprehensive list of everything the plugin needs to do and the order it has to do it in 📅 2023-08-18 
 
 
+1. Initialize NGX - Thadd
+2. Ensure correctly sized frame buffers - connor/thadd
+	1. generate two sets - 
+		1. full res (game res)
+		2. sub game res(75% or whatever the scaling for dlss is)
+3. Initialize memory for motion vectors - connor/thadd
+	4. size of frame buffer determined by ngx and quality set by user and resolution
+4. Initialize memory for scratch buffers
+5. Set up render passes for motion vectors (Shader that outputs movement with respect to time for all pixels) - colin
+6. Start frame things
+7. Update cameras location so that it jitters (0 or almost 0 visible movement) (Us OR hijack jitter from TAA)
+	1. random (research)
+	2. does it need to repeat? (Research)
+8. Begin rendering (unity)
+	1. generate depth buffer (Unity)
+	2. Run motion vector pass (Us)
+	3. DLSS feature eval (Us)
+	4. copy results into larger frame buffer (Us or NGX, research)
+	5. throw it back into the URP (Us or automatic)
+9. Proceed to next frame
+
 
 
 - Provide raw color buffer for each frame (in HDR or LDR/SDR space).

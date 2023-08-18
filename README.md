@@ -6,6 +6,10 @@ This repository is a collection of notes for [Illumination Engine](https://githu
 * Calender - Liam Cain
 * Obsidian Git 
 
+# Todo List - Today
+```dataview 
+TASK FROM #todo WHERE !completed AND due
+```
 # Todo List - General
 
 ```dataview
@@ -13,7 +17,7 @@ TASK FROM #todo AND "General Conifer" WHERE !completion SORT file ASC
 ```
 # Todo List - DLSS
 ```dataview
-TASK FROM #todo AND !"Illumination Engine" AND "DLSS Plugin" WHERE !completion SORT file ASC
+TASK FROM "DLSS Plugin" WHERE !completion SORT file ASC
 ```
 
 
