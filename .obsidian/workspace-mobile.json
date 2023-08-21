@@ -11,15 +11,24 @@
             "id": "1e4148f3676cc6fb",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2aa5b0de363f34d8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Meeting notes/07-18-23.md",
+                "file": "DLSS Plugin/ToDo - Steuber's briandump version.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Meeting notes/07-18-23.md",
+            "file": "DLSS Plugin/ToDo - Steuber's briandump version.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Meeting notes/07-18-23.md",
+            "file": "DLSS Plugin/ToDo - Steuber's briandump version.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Meeting notes/07-18-23.md"
+            "file": "DLSS Plugin/ToDo - Steuber's briandump version.md"
           }
         }
       }
@@ -139,13 +148,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e4148f3676cc6fb",
+  "active": "cff6c2d4bdbcd012",
   "lastOpenFiles": [
-    "Switch Over Message.md",
-    "Meeting notes/07-14-23.md",
-    "Meeting notes/07-18-23.md",
-    "Meeting notes/07-11-23.md",
+    "Portal.md",
+    "README.md",
+    "Tasks/FileSystemObject.md",
     "Tasks/IE Tasks Board.md",
+    "Switch Over Message.md",
+    "Meeting notes/07-18-23.md",
+    "Meeting notes/07-14-23.md",
+    "Meeting notes/07-11-23.md",
     "Meeting notes/07-12-23.md"
   ]
 }
