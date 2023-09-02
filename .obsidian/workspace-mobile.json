@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DLSS Plugin/ToDo - Steuber's briandump version.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -102,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "DLSS Plugin/ToDo - Steuber's briandump version.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "DLSS Plugin/ToDo - Steuber's briandump version.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "DLSS Plugin/ToDo - Steuber's briandump version.md"
+            "file": "README.md"
           }
         }
       }
@@ -148,10 +148,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cff6c2d4bdbcd012",
+  "active": "2aa5b0de363f34d8",
   "lastOpenFiles": [
-    "Portal.md",
+    "DLSS Plugin/ToDo - Steuber's briandump version.md",
     "README.md",
+    "General Conifer/Tasks.md",
+    "General Conifer/Switch Over Message.md",
+    "General Conifer/Conifer Website.md",
+    "DLSS Plugin/Tasks/3 - Set Up Render Pass For Motion Vectors.md",
+    "Portal.md",
     "Tasks/FileSystemObject.md",
     "Tasks/IE Tasks Board.md",
     "Switch Over Message.md",

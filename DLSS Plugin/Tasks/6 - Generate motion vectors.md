@@ -1,4 +1,4 @@
-- [ ] #colin enerate motion vectors on the URP
+- [ ] #colin Generate motion vectors on the URP
 ## Assignee - Colin McVety
 
 Useful links - 
