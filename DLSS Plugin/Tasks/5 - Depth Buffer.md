@@ -1,6 +1,6 @@
 Death Buther
-- [ ] #colin Provide a depth buffer for each frame
-- [ ] #colin Provide color buffer for each frame
+- [x] #colin Provide a depth buffer for each frame [completion:: 2023-09-17 09:41:49]
+- [x] #colin Provide color buffer for each frame [completion:: 2023-09-17 09:41:48]
 
 Grab from Unity 
 get Vulkan handle to the image

@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e4148f3676cc6fb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "2aa5b0de363f34d8",
             "type": "leaf",
             "state": {
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,8 +141,8 @@
   },
   "active": "2aa5b0de363f34d8",
   "lastOpenFiles": [
-    "DLSS Plugin/ToDo - Steuber's briandump version.md",
     "README.md",
+    "DLSS Plugin/ToDo - Steuber's briandump version.md",
     "General Conifer/Tasks.md",
     "General Conifer/Switch Over Message.md",
     "General Conifer/Conifer Website.md",

@@ -1,4 +1,4 @@
-- [ ] #connor Sub-pixel jitter
+- [x] #connor Sub-pixel jitter [completion:: 2023-09-17 09:41:56]
 
 ## Assignee - Connor
 
