@@ -46,7 +46,6 @@
 
 
 
-
 ### Def. of done type stuff
 
 - Full production non-watermarked DLSS library (nvngx_dlss.dll) is packaged in the release build (see section 4.2)
